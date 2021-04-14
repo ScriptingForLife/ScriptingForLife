@@ -1,8 +1,8 @@
 # Methyl 🪐  
   
   
-🔐 Passionné de Cybersécurité & Réseaux informatiques  
-💎 >_ PHP / SQL / BASH & C lover  
+🔐 Passionné de Cybersécurité & Programmation
+💎 >_ PHP / SQL / BASH & Java lover  
   
   
 > Mes réseaux 🌐
